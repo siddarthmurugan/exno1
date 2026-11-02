@@ -43,7 +43,6 @@ STEP 6: Use zscore of to remove outliers
 ![Screenshot 2025-03-05 162518](https://github.com/user-attachments/assets/8d3535e7-491b-4370-831d-baf9f2ffe32d)
 ![Screenshot 2025-03-05 162528](https://github.com/user-attachments/assets/39e12b36-d270-4a7d-b7ea-a20a990ccee9)
 ![Screenshot 2025-03-05 162536](https://github.com/user-attachments/assets/0f030bb4-a221-4130-b66d-9d7f1e9c4308)
-            <<include your coding and its corressponding output screen shots here>>
+
 # Result
-          <<include your Result here>>
 Thus we have cleaned the data and removed the outliers by detection using IQR and Z-score method.
